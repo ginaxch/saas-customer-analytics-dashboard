@@ -77,7 +77,7 @@ This allows cross-table analysis across customers, subscriptions, and engagement
 
 ## Dashboard Preview
 
-Insert dashboard screenshot here.
+![Dashboard Overview](SaaS-Customer-Analytics/screenshots/dashboard.png)
 
 ## Key Insights
 
